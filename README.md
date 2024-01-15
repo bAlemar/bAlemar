@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Prazer Bernardo Alemar</h1>
+<h1 align="center">Olá. Prazer, Bernardo Alemar</h1>
 <h3 align="center">Desenvolvedor de Python e Cientista de Dados</h3>
 
 - 🔭 Atualmente atuo como Consulor para pequenas/médias empresas por meio do desenvolvimento de softwares e análise/predição de dados.
