@@ -1,7 +1,7 @@
 <h1 align="center">Olá. Prazer, Bernardo Alemar</h1>
 <h3 align="center">Desenvolvedor de Python e Cientista de Dados</h3>
 
-- 🔭 Atualmente atuo como Consulor para pequenas/médias empresas por meio da automação de tarefas, análise/predição de dados.
+- 🔭 Atualmente atuo como Consulor para pequenas/médias empresas por meio da automação de tarefas e análise/predição de dados.
 
 - 📝 Estou sempre escrevendo algo sobre programação e dados no meu perfil do [Linkedin](https://www.linkedin.com/in/bernardo-alemar-9117a11a2/).
 
