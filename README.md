@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bAlemar.visitor-badgee&color=black&style=flat-square">
 <h1 align="center">Olá. Prazer, Bernardo Alemar</h1>
 <h3 align="center">Desenvolvedor de Python e Cientista de Dados</h3>
 
